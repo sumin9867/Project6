@@ -29,7 +29,7 @@ var lightTheme = ThemeData(
     ),
     headlineMedium: TextStyle(
       fontFamily: "Poppins",
-      fontSize: 20,
+      fontSize: 23,
       fontWeight: FontWeight.w600,
     ),
     bodyLarge: TextStyle(

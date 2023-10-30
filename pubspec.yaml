@@ -36,18 +36,18 @@ dependencies:
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^1.0.2
   get: ^4.6.6
-  # flutter_svg: ^2.0.7
-  # syncfusion_flutter_pdfviewer: ^23.1.36
-  # lottie: ^2.6.0
-  # firebase_core: ^2.16.0
-  # google_sign_in: ^6.1.5
-  # firebase_auth: ^4.10.0
-  # fluttertoast: ^8.2.2
-  # file_picker: ^5.5.0
-  # cloud_firestore: ^4.9.2
-  # firebase_storage: ^11.2.7
-  # image_picker: ^1.0.4
-  # uuid: ^3.0.7
+  flutter_svg: ^2.0.7
+  syncfusion_flutter_pdfviewer: ^23.1.36
+  lottie: ^2.6.0
+  firebase_core: ^2.16.0
+  google_sign_in: ^6.1.5
+  firebase_auth: ^4.10.0
+  fluttertoast: ^8.2.2
+  file_picker: ^5.5.0
+  cloud_firestore: ^4.9.2
+  firebase_storage: ^11.2.7
+  image_picker: ^1.0.4
+  uuid: ^3.0.7
 
 dev_dependencies:
   flutter_test:

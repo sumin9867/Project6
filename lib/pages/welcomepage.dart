@@ -1,5 +1,7 @@
 import 'package:findtoread/Component/PrimaryButton.dart';
+import 'package:findtoread/pages/Homepage/HomePage.dart';
 import 'package:flutter/material.dart';
+import 'package:get/get.dart';
 
 class WelcomePage extends StatelessWidget {
   const WelcomePage({super.key});
@@ -80,7 +82,12 @@ class WelcomePage extends StatelessWidget {
         ),
         Padding(
             padding: EdgeInsets.only(right: 20, left: 20),
-            child: PrimaryButton())
+            child: PrimaryButton(
+              btnName: "Continue",
+              ontap: () {
+                Get.offAll(HomePage());
+              },
+            ))
       ],
     ));
   }
