@@ -37,7 +37,7 @@ class WelcomePage extends StatelessWidget {
                     height: 20,
                   ),
                   Text(
-                    "Here you can finsd the best book for you and you can also read book and listen book",
+                    "Here you can find the best book for you and you can also read book and listen book",
                     textAlign: TextAlign.center,
                     style: Theme.of(context).textTheme.labelMedium?.copyWith(
                         color: Theme.of(context).colorScheme.background),
